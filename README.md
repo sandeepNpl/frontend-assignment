@@ -17,11 +17,10 @@ You can fetch data using the following API endpoint: https://fakestoreapi.com/
 
 ## Requirements:
 
-- Use Next.js to create the web application. (Typescript MUST be used)
+- Use Next.js (v13 i.e app folder) to create the web application. (Typescript MUST be used)
 - Create a visually appealing UI using any CSS framework (like Bootstrap, Tailwind CSS).
 - Use react query (Tanstack query) for fetching and caching the api data.
 - Use of global state management with Redux toolkit, Recoil or any other state management library.
-- Implement client-side routing to enable smooth transitions between pages.
 - Write clean, maintainable, and well-documented code.
 - Use Git for version control, committing your code regularly to the forked Git repository in your profile.
 - Deploy the application to a hosting platform (e.g., Vercel, Netlify) and provide a live demo URL in your repo and the submission form.
@@ -45,4 +44,4 @@ You can fetch data using the following API endpoint: https://fakestoreapi.com/
 - Submission Deadline: Task Submission: 2023/07/22 11:30 AM
 
 Check out the discussion section of this repo to ask any related queries or doubts.
-Note: The assignment is intended to help you grasp basic concepts. Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
+Note: The assignment is intentionally challenging so do your best ;) . Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
