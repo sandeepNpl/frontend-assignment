@@ -44,4 +44,5 @@ You can fetch data using the following API endpoint: https://fakestoreapi.com/
 - Submission Deadline: Task Submission: 2023/07/22 11:30 AM
 
 Check out the discussion section of this repo to ask any related queries or doubts.
+
 Note: The assignment is intentionally challenging so do your best ;) . Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
