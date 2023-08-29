@@ -17,9 +17,9 @@ You can fetch data using the following API endpoint: https://fakestoreapi.com/
 
 ## Requirements:
 
-- Use Next.js (v13 i.e app folder) to create the web application. (Typescript MUST be used)
-- Create a visually appealing UI using any CSS framework (like Bootstrap, Tailwind CSS).
-- Use react query (Tanstack query) for fetching and caching the api data.
+- Use Next.js (v13 i.e. app folder) to create the web application. (Typescript MUST be used)
+- Create a visually appealing UI using any CSS framework (like Bootstrap, and Tailwind CSS).
+- Use react query (Tanstack query) for fetching and caching the API data.
 - Use of global state management with Redux toolkit, Recoil or any other state management library.
 - Write clean, maintainable, and well-documented code.
 - Use Git for version control, committing your code regularly to the forked Git repository in your profile.
@@ -37,11 +37,11 @@ You can fetch data using the following API endpoint: https://fakestoreapi.com/
 2. Commit your code regularly and push the changes to your forked repository.
 3. Do not create a pull request; just submit your forked repository.
 4. Provide a DOCS.md file with all the technologies used and how to run the program locally.
-5. Once you have completed the assignment, share the repository URL with us via the [submission form](https://forms.gle/r5ENHoDewE5swP9x7).
+5. Once you have completed the assignment, share the repository URL with us via the [submission form](https://forms.gle/QQcXn8odBUfoHtbt7).
 
 6. Join this discord server to get an update: [Join Here ](https://discord.gg/5qbGZP7V8g)
 
-- Submission Deadline: Task Submission: 2023/07/22 11:30 AM
+- Submission Deadline: Task Submission: 2023/09/3 11:30 AM
 
 Check out the discussion section of this repo to ask any related queries or doubts.
 
