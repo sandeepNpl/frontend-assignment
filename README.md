@@ -41,7 +41,7 @@ You can fetch data using the following API endpoint: https://fakestoreapi.com/
 
 6. Join this discord server to get an update: [Join Here ](https://discord.gg/5qbGZP7V8g)
 
-- Submission Deadline: Task Submission: 2023/09/3 11:30 AM
+- Submission Deadline: Task Submission: 2023/09/3 02:30 PM
 
 Check out the discussion section of this repo to ask any related queries or doubts.
 
