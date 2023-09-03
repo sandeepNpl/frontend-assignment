@@ -3,15 +3,16 @@
 import Container from "../Container";
 import Input from "../ui/Input";
 import Logo from "./Logo";
-import Search from "./Search";
 
-const Navbar = () => {
+
+const Navbar:React.FC<InputProps> = ({ searchQuery, setSearchQuery }) => {
   return (
-    <div className=" w-full  z-10 shadow-sm">
+    <div className=" w-full z-10 shadow-sm">
       <div
         className="
+             w-full
              py-4
-             border-b-[2px]
+             border-b-[1px]
             "
       >
         <Container>
@@ -20,13 +21,14 @@ const Navbar = () => {
                     flex
                     flex-row
                     items-center
-                    w-[1000px]
+                    w-full
+                    md:w-[1000px]
                     gap-3
                     md:gap-20
                    "
           >
             <Logo />
-            <Input label="Search" id="1" />
+            <Input searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
           </div>
         </Container>
       </div>
